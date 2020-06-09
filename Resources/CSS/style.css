@@ -5,6 +5,10 @@ body{
     text-align: center;
 }
 
-.header--main{
-    
+h1{
+    color: white;
+}
+
+a {
+    color: aquamarine;
 }
